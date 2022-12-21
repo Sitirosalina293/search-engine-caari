@@ -62,20 +62,9 @@ Berikut struktur folder dalam aplikasi ini:
     > *localhost/Caari-Search-Engine/submit-url.php*.
 
 ## Credits
-   Dosen Pendamping : Yuni Yamasari, S.Kom., M.Kom.
+   Dosen Pendamping : Naim Rochmawati, S.Kom., M.T.
    Author: Siti Rosalina - 073
    TI 2019 B
-
-   Program Reference : 
-   Perubahan yang dilakukan :
-   1. UI
-   2. Indexing : semula term utuh dari apa adanya yang user inputkan 
-   -> saya ubah menjadi array dan memisahkan term menjadi per-kata untuk mengoptimalkan hasil pencarian
-   -> saya tambahkan pembobotan pada setiap kesesuaian per term-kata
-   3. ranking : semula di urutkan menurut yang paling sering dikunjungi, jadi belum tentu mendekati apa yang dicari user
-   -> saya tambahkan sistem perankingan Simple Additive Weight (SAW) dengan memanfaatkan pembobotan kata, diurutkan berdasarkan kemiripan tertinggi dengan term yang di inputkan user
-   -> 2 metode tersebut digabungkan untuk mengoptimalkan dan memudahkan user mendapatkan apa yang dicari
-   4. penambahan form add data secara manual, karena hasil crawling masih kurang sempurna, tidak semua url mendapatkan hasil yang maksimal, bahkan tidak dapat dilakukan crawling.
 
    Saran untuk pengembangan selanjutnya :
    1. ditambahkan metode NLP, untu lebih memahami keinginan user, jika seketika terjadi salah ketik atau typo
