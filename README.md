@@ -1,6 +1,6 @@
 # Search Engine : Caari
 
-Search engine ini dibuat sebagai prasayarat ujian akhir semester (UAS) semester ganjil 2021/2022 Mata Kuliah Kecerdasan Komputasional Kelas TI 2019.
+Search engine ini dibuat sebagai Skripsi.
 program ini digunakan seperti search engine pada umumnya. Program ini dibuat menggunakan bahasa pemrograman **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)**, **Javascript**, dan **PHP (Hypertext Preprocessor)**, dengan bantuan framework **bootsrap**.
 
 3 Metode dalam search engine :
